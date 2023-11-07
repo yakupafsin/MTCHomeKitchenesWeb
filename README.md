@@ -1,4 +1,3 @@
-```markdown
 # MTCHomeKitchenesWeb
 
 This is the web version of my Expo app. You can run this app in your web browser to experience its features. Below are the steps to get it up and running.
@@ -63,4 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to the Expo team and the open-source community for their contributions to this project.
 
 Happy coding!
-```
